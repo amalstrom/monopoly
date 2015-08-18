@@ -7,13 +7,6 @@
 //
 
 #include "board.h"
-#include <iostream>
-#include <stdio.h>
-using namespace std;
-
-void tester () {
-    cout << "Yo, what up git." << endl;
-}
 
 void board_init (Board &board) {
     
